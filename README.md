@@ -1,2 +1,0 @@
-# Norway
-test site Norway
